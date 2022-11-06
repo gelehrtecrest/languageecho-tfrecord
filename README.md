@@ -19,4 +19,4 @@
 本ファイルはFF14のスクリーンショット及びそれに類するデータの加工データになります。よってFF14の二次創作にあたります。
 利用にあたっては、ファイナルファンタジーXIV 著作物利用条件に則ってご利用ください
 
-https://support.jp.square-enix.com/rule.php?id=5381&la=0&tag=authc
+<https://support.jp.square-enix.com/rule.php?id=5381&la=0&tag=authc>
